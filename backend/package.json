@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Api for autoShoppingList app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YvesMolina/autoShoppingList.git#main"
+  },
+  "author": "Yves Molina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YvesMolina/autoShoppingList/issues"
+  },
+  "homepage": "https://github.com/YvesMolina/autoShoppingList/tree/main#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
